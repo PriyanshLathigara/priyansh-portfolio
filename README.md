@@ -20,12 +20,14 @@ A modern, responsive portfolio website built with React, Vite, and Tailwind CSS.
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/PriyanshLathigara/priyansh-portfolio.git
 cd priyansh-portfolio
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 ```
@@ -53,6 +55,7 @@ npm install
 ### Development
 
 Run the development server:
+
 ```bash
 npm run dev
 ```
@@ -62,11 +65,13 @@ The app will be available at `http://localhost:5173`
 ### Production Build
 
 Build for production:
+
 ```bash
 npm run build
 ```
 
 Preview the production build:
+
 ```bash
 npm run preview
 ```
