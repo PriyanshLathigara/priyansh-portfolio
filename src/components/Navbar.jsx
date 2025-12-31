@@ -12,6 +12,9 @@ export default function Navbar() {
           <a href="#skills" className="hover:text-white transition">
             Skills
           </a>
+          <a href="#certifications" className="hover:text-white transition">
+            Certifications
+          </a>
           <a href="#contact" className="hover:text-white transition">
             Contact
           </a>
